@@ -10,9 +10,10 @@ features:
    ● Search Order by OrderID: Create a search form with an input field for OrderID. Display the order details.
    ● Delete Order: Implement a form where users can enter the OrderID to delete an order.
    ● Update Order Quantity: Design a form where users can input an OrderID and the new quantity. Submit the updated quantity to the database.
- 3. Routing and State Management:
+ 4. Routing and State Management:
    ● Use React Router to navigate between the “Add Order”, “Search Order”, “Delete Order”, and “Update Order Quantity” pages.
    ● Manage form states using React Hooks (useState, useEffect) to control input fields and handle data submission and retrieval.
+
  Specifications:
  ● Integrate React Hook Form or a similar form library for managing form data and validation.
  ● UseReact Hooks for managing state and data fetching.
